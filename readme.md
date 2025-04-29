@@ -35,7 +35,7 @@ It allows users to **add**, **complete**, and **remove** tasks — and it saves 
 ---
 
 ## 📷 Screenshot
-![Screenshot][E:\gitProject\Todo with Local storage\Screenshot 2025-04-28 180827.png]
+![Screenshot][Screenshot 2025-04-28 180827.png]
 
 ---
 
